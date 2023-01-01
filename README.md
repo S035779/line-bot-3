@@ -20,6 +20,7 @@ node_modules
 
 ```
 $ git init
+$ git add
 $ git commit -m "First commit"
 $ git remote add origin s035779.github.com:S035779/line-bot-3.git
 $ git push -u origin master
